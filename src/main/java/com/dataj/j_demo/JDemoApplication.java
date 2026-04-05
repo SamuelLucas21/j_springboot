@@ -35,7 +35,7 @@ public class JDemoApplication {
 			UserEntidenty user = UserEntidenty.builder()
 								.name("Samuel")
 								.password("00")
-								.cpf("42405160803")
+								.cpf("65157826087")
 								.email("samuel@gmail.com")
 								.build();
 			this.userRepository.save(user);
